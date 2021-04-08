@@ -25,3 +25,13 @@ I’m Mofei, A full-stack engineer since 2010, currently working on data process
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zmofei&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/mofei-zhu"><img src="https://img.shields.io/badge/-Mofei--Zhu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:zhuwenlong1027@gmail.com"><img src="https://img.shields.io/badge/-zhuwenlong1027@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/zhu_wenlong"><img src="https://img.shields.io/badge/-@zhu__wenlong_-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+<a href="https://www.zhuwenlong.com"><img src="https://img.shields.io/badge/-https%3A%2F%2Fwww.zhuwenlong.com-1769FF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+</p>
