@@ -7,6 +7,8 @@ I’m Mofei, A full-stack engineer since 2010, currently working on data process
 
 ### 🛠 &nbsp;Tech Stack
 
+<img align="right" src="programming.gif" width="50%">
+
 ![HTML](https://img.shields.io/badge/HTML-11y-24292e?style=flat-square&logo=HTML5&labelColor=24292e&color=474d56) ![CSS](https://img.shields.io/badge/CSS-11y-24292e?style=flat-square&logo=CSS3&labelColor=24292e&color=474d56) ![JavaScript](https://img.shields.io/badge/JavaScript-11y-24292e?style=flat-square&logo=JavaScript&labelColor=24292e&color=474d56) ![React](https://img.shields.io/badge/React-7y-24292e?style=flat-square&logo=React&labelColor=24292e&color=474d56) ![Redux](https://img.shields.io/badge/Redux-6y-24292e?style=flat-square&logo=Redux&labelColor=24292e&color=474d56) ![Webpack](https://img.shields.io/badge/Webpack-6y-24292e?style=flat-square&logo=Webpack&labelColor=24292e&color=474d56)  ![Sass](https://img.shields.io/badge/Sass-6y-24292e?style=flat-square&logo=Sass&labelColor=24292e&color=474d56) ![Mini%20program](https://img.shields.io/badge/Mini%20program-6y-24292e?style=flat-square&logo=WeChat&labelColor=24292e&color=474d56) ![Visualization](https://img.shields.io/badge/Visualization-6y-24292e?style=flat-square&logo=reverbnation&labelColor=24292e&color=474d56) ![Engineering](https://img.shields.io/badge/Engineering-5y-24292e?style=flat-square&logo=reverbnation&labelColor=24292e&color=474d56)
 
 
