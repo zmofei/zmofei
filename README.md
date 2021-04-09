@@ -15,7 +15,7 @@ I’m Mofei, A full-stack engineer since 2010, currently working on data process
 ![Code ReView](https://img.shields.io/badge/Code%20Review-4y-24292e?style=flat-square&logo=Visual-Studio-Code&logoColor=FFFFFF&labelColor=24292e&color=474d56) ![Unit testing](https://img.shields.io/badge/Unit%20testing-3y-24292e?style=flat-square&logo=Travis-CI&logoColor=FFFFFF&labelColor=24292e&color=474d56) ![Code Coverage](https://img.shields.io/badge/Code%20Coverage-3y-24292e?style=flat-square&logo=Codecov&logoColor=FFFFFF&labelColor=24292e&color=474d56)
 
 
-![Git](https://img.shields.io/badge/-Git-24292e?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-24292e?style=flat&logo=github)&nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-24292e?style=flat&logo=markdown) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-24292e?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; ![Illustrator](https://img.shields.io/badge/-Illustrator-24292e?style=flat&logo=adobe-illustrator)&nbsp; ![Photoshop](https://img.shields.io/badge/-Photoshop-24292e?style=flat&logo=adobe-photoshop)&nbsp;
+![Git](https://img.shields.io/badge/-Git-24292e?style=flat-square&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-24292e?style=flat-square&logo=github)&nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-24292e?style=flat-square&logo=markdown) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-24292e?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp; ![Illustrator](https://img.shields.io/badge/-Illustrator-24292e?style=flat-square&logo=adobe-illustrator)&nbsp; ![Photoshop](https://img.shields.io/badge/-Photoshop-24292e?style=flat-square&logo=adobe-photoshop)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -30,8 +30,8 @@ I’m Mofei, A full-stack engineer since 2010, currently working on data process
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/mofei-zhu"><img src="https://img.shields.io/badge/-Mofei--Zhu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:zhuwenlong1027@gmail.com"><img src="https://img.shields.io/badge/-zhuwenlong1027@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/zhu_wenlong"><img src="https://img.shields.io/badge/-@zhu__wenlong_-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-<a href="https://www.zhuwenlong.com"><img src="https://img.shields.io/badge/-https%3A%2F%2Fwww.zhuwenlong.com-1769FF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mofei-zhu"><img src="https://img.shields.io/badge/-Mofei--Zhu-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:zhuwenlong1027@gmail.com"><img src="https://img.shields.io/badge/-zhuwenlong1027@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/zhu_wenlong"><img src="https://img.shields.io/badge/-@zhu__wenlong_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href="https://www.zhuwenlong.com"><img src="https://img.shields.io/badge/-https%3A%2F%2Fwww.zhuwenlong.com-1769FF?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 </p>
