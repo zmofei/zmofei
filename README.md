@@ -34,5 +34,5 @@ Hi [I’m Mofei](https://himofei.com/), 哈喽[我是朱文龙](https://www.zhuw
 <a href="https://linkedin.com/in/mofei-zhu"><img src="https://img.shields.io/badge/-Mofei--Zhu-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:zhuwenlong1027@gmail.com"><img src="https://img.shields.io/badge/-zhuwenlong1027@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/zhu_wenlong"><img src="https://img.shields.io/badge/-@zhu__wenlong_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-<a href="https://www.zhuwenlong.com"><img src="https://img.shields.io/badge/-https%3A%2F%2Fwww.zhuwenlong.com-1769FF?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.mofei.life"><img src="https://img.shields.io/badge/-https%3A%2F%2Fwww.mofei.life-1769FF?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 </p>
