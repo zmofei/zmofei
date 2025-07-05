@@ -8,32 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=zmofei&color=blueviolet&style=flat-square&label=Profile+Views+(since+July+5,+2025)" alt="Profile Views since July 5, 2025"/>
 </p>
 
-### 👨🏻‍💻 &nbsp;About Me
-
-Hi [I'm Mofei](https://www.mofei.life/), 哈喽[我是朱文龙](https://www.mofei.life/)
-
-**🚀 Senior Technology Leader & Innovation Driver**
-
-🎯 **Current Role**: Full-Stack Engineer at **@Mapbox** | Helsinki, Finland
-
-📈 **Career Progression**:
-- **2008-2020**: Built enterprise web applications in Shanghai, won multiple "Annual Excellent Employee" awards
-- **Key Projects**: Traffic Cloud big data system for traffic police, Mapv open-source visualization library
-- **2020-2025**: Advanced to data engineering and analytics, specialized in geospatial technologies
-- **2025-Present**: Exploring AI/ML integration in mapping and location intelligence
-
-💡 **Technical Achievements**:
-- 🏆 **Open Source**: Created Mapv data visualization library (widely adopted)
-- 🚦 **Enterprise Impact**: Built Traffic Cloud big data platform for government traffic management
-- 📡 **Real-time Systems**: Developed Node.js-based IM servers for high-scale applications
-- 🎓 **Academic Recognition**: Best paper award (2013), multiple university scholarships
-
-🌍 **Global Perspective**: 
-- 🇨🇳 **Shanghai Experience**: Deep understanding of Chinese tech ecosystem
-- 🇫🇮 **Helsinki Innovation**: Contributing to European geospatial technology advancement
-- 🗣️ **Cross-cultural**: Native Chinese, Professional English proficiency
-
-🔮 **Vision**: Advancing geospatial intelligence through modern web technologies and emerging AI capabilities
 
 ### 🛠 &nbsp;Tech Stack
 
