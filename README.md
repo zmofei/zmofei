@@ -1,7 +1,7 @@
 <h2>Hi there 👋  </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Data+Science+Engineer;AI+Research+Enthusiast&center=true&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Senior+Full-Stack+Engineer+%40+Mapbox;15%2B+Years+Web+%26+API+Architecture;5%2B+Years+Big+Data+%26+Analytics;AI%2FML+Research+%26+Innovation+Leader;Building+Next-Gen+Data+Platforms&center=true&vCenter=true" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,7 +10,24 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Hi [I’m Mofei](https://www.mofei.life/), 哈喽[我是朱文龙](https://www.mofei.life/), with 15+ years of frontend & API development experience since 2010, 5 years in data science since 2020, and recently diving into AI research at @mapbox since 2025
+Hi [I'm Mofei](https://www.mofei.life/), 哈喽[我是朱文龙](https://www.mofei.life/)
+
+**🚀 Senior Technology Leader & Innovation Driver**
+
+🎯 **Current Role**: Leading AI/ML initiatives and data platform architecture at **@Mapbox**
+
+📈 **Career Progression**:
+- **2010-2020**: Built enterprise-scale web applications, mastered full-stack development
+- **2020-2025**: Architected big data pipelines, transformed raw data into business insights  
+- **2025-Present**: Pioneering AI-first data processing systems and intelligent automation
+
+💡 **Technical Leadership**:
+- 🏗️ **Architecture**: Designed scalable systems serving millions of users
+- 📊 **Data Engineering**: Built petabyte-scale analytics platforms  
+- 🤖 **AI Innovation**: Early adopter of LLMs, Vector DBs, and Agent frameworks
+- 🌍 **Global Impact**: Contributing to geospatial technology used worldwide
+
+🔮 **Vision**: Bridging the gap between traditional data engineering and next-generation AI applications
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -61,3 +78,7 @@ Hi [I’m Mofei](https://www.mofei.life/), 哈喽[我是朱文龙](https://www.m
 <a href="https://www.mofei.life"><img src="https://img.shields.io/badge/-Blog-1769FF?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 </p>
 
+### 💬 &nbsp;Fun Facts
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Dev Quote"/>
+</p>
