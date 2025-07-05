@@ -1,7 +1,7 @@
 <h2>Hi there 👋  </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Senior+Full-Stack+Engineer+%40+Mapbox;15%2B+Years+Web+%26+API+Architecture;5%2B+Years+Big+Data+%26+Analytics;AI%2FML+Research+%26+Innovation+Leader;Building+Next-Gen+Data+Platforms&center=true&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Full-Stack+Engineer+%40+Mapbox+Helsinki;15%2B+Years+Web+Development+Expertise;Open+Source+Creator+(Mapv+Library);Traffic+Cloud+Big+Data+Architect;Geospatial+%26+AI+Innovation&center=true&vCenter=true" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,20 +14,26 @@ Hi [I'm Mofei](https://www.mofei.life/), 哈喽[我是朱文龙](https://www.mof
 
 **🚀 Senior Technology Leader & Innovation Driver**
 
-🎯 **Current Role**: Leading AI/ML initiatives and data platform architecture at **@Mapbox**
+🎯 **Current Role**: Full-Stack Engineer at **@Mapbox** | Helsinki, Finland
 
 📈 **Career Progression**:
-- **2010-2020**: Built enterprise-scale web applications, mastered full-stack development
-- **2020-2025**: Architected big data pipelines, transformed raw data into business insights  
-- **2025-Present**: Pioneering AI-first data processing systems and intelligent automation
+- **2008-2020**: Built enterprise web applications in Shanghai, won multiple "Annual Excellent Employee" awards
+- **Key Projects**: Traffic Cloud big data system for traffic police, Mapv open-source visualization library
+- **2020-2025**: Advanced to data engineering and analytics, specialized in geospatial technologies
+- **2025-Present**: Exploring AI/ML integration in mapping and location intelligence
 
-💡 **Technical Leadership**:
-- 🏗️ **Architecture**: Designed scalable systems serving millions of users
-- 📊 **Data Engineering**: Built petabyte-scale analytics platforms  
-- 🤖 **AI Innovation**: Early adopter of LLMs, Vector DBs, and Agent frameworks
-- 🌍 **Global Impact**: Contributing to geospatial technology used worldwide
+💡 **Technical Achievements**:
+- 🏆 **Open Source**: Created Mapv data visualization library (widely adopted)
+- 🚦 **Enterprise Impact**: Built Traffic Cloud big data platform for government traffic management
+- 📡 **Real-time Systems**: Developed Node.js-based IM servers for high-scale applications
+- 🎓 **Academic Recognition**: Best paper award (2013), multiple university scholarships
 
-🔮 **Vision**: Bridging the gap between traditional data engineering and next-generation AI applications
+🌍 **Global Perspective**: 
+- 🇨🇳 **Shanghai Experience**: Deep understanding of Chinese tech ecosystem
+- 🇫🇮 **Helsinki Innovation**: Contributing to European geospatial technology advancement
+- 🗣️ **Cross-cultural**: Native Chinese, Professional English proficiency
+
+🔮 **Vision**: Advancing geospatial intelligence through modern web technologies and emerging AI capabilities
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -50,6 +56,23 @@ Hi [I'm Mofei](https://www.mofei.life/), 哈喽[我是朱文龙](https://www.mof
 
 **Specialized Platforms**  
 ![Mini%20program](https://img.shields.io/badge/Mini%20program-7y-24292e?style=flat-square&logo=WeChat&labelColor=24292e&color=474d56) ![Visualization](https://img.shields.io/badge/Visualization-7y-24292e?style=flat-square&logo=reverbnation&labelColor=24292e&color=474d56) ![Illustrator](https://img.shields.io/badge/-Illustrator-24292e?style=flat-square&logo=adobe-illustrator) ![Photoshop](https://img.shields.io/badge/-Photoshop-24292e?style=flat-square&logo=adobe-photoshop) ![Markdown](https://img.shields.io/badge/-Markdown-24292e?style=flat-square&logo=markdown) ![Code Coverage](https://img.shields.io/badge/Code%20Coverage-4y-24292e?style=flat-square&logo=Codecov&labelColor=24292e&color=474d56)
+
+### 🏆 &nbsp;Notable Achievements
+
+**🎓 Academic & Professional Recognition**
+- 🥇 **Best Paper Award** (2013) - Research excellence recognition
+- 🏅 **Annual Excellent Employee** (2011-2013) - Consistent high performance
+- 🎓 **University Scholarships** (2012-2013) - Academic achievement at Beihang University
+
+**🌟 Open Source Impact**
+- 📊 **Mapv Library**: Created widely-adopted data visualization framework for geospatial data
+- 🚀 **Community Contribution**: Advancing open-source ecosystem in China and globally
+- 🔧 **Technical Innovation**: Bridging Canvas visualization with modern web frameworks
+
+**🏢 Enterprise Solutions**
+- 🚦 **Traffic Cloud Platform**: Big data system transforming urban traffic management
+- 💬 **Real-time Communication**: Node.js IM servers handling high-scale messaging
+- 🌐 **Cross-border Technology**: Bringing Chinese innovation to European markets
 
 ### ⚙️ &nbsp;GitHub Analytics
 
