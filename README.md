@@ -61,7 +61,3 @@ Hi [I’m Mofei](https://www.mofei.life/), 哈喽[我是朱文龙](https://www.m
 <a href="https://www.mofei.life"><img src="https://img.shields.io/badge/-Blog-1769FF?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 </p>
 
-### 💬 &nbsp;Fun Facts
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Dev Quote"/>
-</p>
