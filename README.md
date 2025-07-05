@@ -31,22 +31,6 @@
 **Specialized Platforms**  
 ![Mini%20program](https://img.shields.io/badge/Mini%20program-7y-24292e?style=flat-square&logo=WeChat&labelColor=24292e&color=474d56) ![Visualization](https://img.shields.io/badge/Visualization-7y-24292e?style=flat-square&logo=reverbnation&labelColor=24292e&color=474d56) ![Illustrator](https://img.shields.io/badge/-Illustrator-24292e?style=flat-square&logo=adobe-illustrator) ![Photoshop](https://img.shields.io/badge/-Photoshop-24292e?style=flat-square&logo=adobe-photoshop) ![Markdown](https://img.shields.io/badge/-Markdown-24292e?style=flat-square&logo=markdown) ![Code Coverage](https://img.shields.io/badge/Code%20Coverage-4y-24292e?style=flat-square&logo=Codecov&labelColor=24292e&color=474d56)
 
-### 🏆 &nbsp;Notable Achievements
-
-**🎓 Academic & Professional Recognition**
-- 🥇 **Best Paper Award** (2013) - Research excellence recognition
-- 🏅 **Annual Excellent Employee** (2011-2013) - Consistent high performance
-- 🎓 **University Scholarships** (2012-2013) - Academic achievement at Beihang University
-
-**🌟 Open Source Impact**
-- 📊 **Mapv Library**: Created widely-adopted data visualization framework for geospatial data
-- 🚀 **Community Contribution**: Advancing open-source ecosystem in China and globally
-- 🔧 **Technical Innovation**: Bridging Canvas visualization with modern web frameworks
-
-**🏢 Enterprise Solutions**
-- 🚦 **Traffic Cloud Platform**: Big data system transforming urban traffic management
-- 💬 **Real-time Communication**: Node.js IM servers handling high-scale messaging
-- 🌐 **Cross-border Technology**: Bringing Chinese innovation to European markets
 
 ### ⚙️ &nbsp;GitHub Analytics
 
