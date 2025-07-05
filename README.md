@@ -23,6 +23,9 @@ Hi [I’m Mofei](https://himofei.com/), 哈喽[我是朱文龙](https://www.zhuw
 **Data Processing & Analytics**  
 ![Python](https://img.shields.io/badge/Python-5y-24292e?style=flat-square&logo=Python&labelColor=24292e&color=474d56) ![Apache%20Spark](https://img.shields.io/badge/Apache%20Spark-5y-24292e?style=flat-square&logo=Apache%20Spark&labelColor=24292e&color=474d56) ![PySpark](https://img.shields.io/badge/PySpark-5y-24292e?style=flat-square&logo=Apache%20Spark&labelColor=24292e&color=474d56) ![Apache%20Airflow](https://img.shields.io/badge/Apache%20Airflow-5y-24292e?style=flat-square&logo=Apache%20Airflow&labelColor=24292e&color=474d56)
 
+**AI & Machine Learning**  
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-1y-24292e?style=flat-square&logo=OpenAI&labelColor=24292e&color=474d56) ![Claude API](https://img.shields.io/badge/Claude%20API-1y-24292e?style=flat-square&logo=Anthropic&labelColor=24292e&color=474d56) ![MCP](https://img.shields.io/badge/MCP-1y-24292e?style=flat-square&logo=reverbnation&labelColor=24292e&color=474d56) ![AI Agent](https://img.shields.io/badge/AI%20Agent-1y-24292e?style=flat-square&logo=reverbnation&labelColor=24292e&color=474d56) ![Vector%20DB](https://img.shields.io/badge/Vector%20DB-1y-24292e?style=flat-square&logo=reverbnation&labelColor=24292e&color=474d56)
+
 **Development Practices**  
 ![Code Review](https://img.shields.io/badge/Code%20Review-5y-24292e?style=flat-square&logo=Visual-Studio-Code&labelColor=24292e&color=474d56) ![Unit testing](https://img.shields.io/badge/Unit%20testing-4y-24292e?style=flat-square&logo=Travis-CI&labelColor=24292e&color=474d56) ![Code Coverage](https://img.shields.io/badge/Code%20Coverage-4y-24292e?style=flat-square&logo=Codecov&labelColor=24292e&color=474d56)
 
