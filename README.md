@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zmofei&color=blueviolet&style=flat-square&label=Profile+Views+(since+2025)" alt="Profile Views since 2025"/>
+  <img src="https://komarev.com/ghpvc/?username=zmofei&color=blueviolet&style=flat-square&label=Profile+Views+(since+July+5,+2025)" alt="Profile Views since July 5, 2025"/>
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
