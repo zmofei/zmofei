@@ -8,6 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=zmofei&color=blueviolet&style=flat-square&label=Profile+Views+(since+July+5,+2025)" alt="Profile Views since July 5, 2025"/>
 </p>
 
+### 👨🏻‍💻 &nbsp;About Me
+
+Hi [I'm Mofei](https://www.mofei.life/), 哈喽[我是朱文龙](https://www.mofei.life/), with 15+ years of frontend & API development experience since 2010, 5 years in data science since 2020, and recently diving into AI research at @mapbox since 2025
 
 ### 🛠 &nbsp;Tech Stack
 
