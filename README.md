@@ -1,5 +1,13 @@
 <h2>Hi there 👋  </h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Data+Science+Engineer;AI+Research+Enthusiast&center=true&vCenter=true" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zmofei&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 Hi [I’m Mofei](https://www.mofei.life/), 哈喽[我是朱文龙](https://www.mofei.life/), with 15+ years of frontend & API development experience since 2010, 5 years in data science since 2020, and recently diving into AI research at @mapbox since 2025
@@ -9,10 +17,10 @@ Hi [I’m Mofei](https://www.mofei.life/), 哈喽[我是朱文龙](https://www.m
 <img align="right" src="programming.gif" alt="Programming Animation" width="50%">
 
 **AI & Machine Learning**  
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-1y-24292e?style=flat-square&logo=OpenAI&labelColor=24292e&color=474d56) ![Claude API](https://img.shields.io/badge/Claude%20API-1y-24292e?style=flat-square&logo=Anthropic&labelColor=24292e&color=474d56) ![MCP](https://img.shields.io/badge/MCP-1y-24292e?style=flat-square&logo=reverbnation&labelColor=24292e&color=474d56) ![AI Agent](https://img.shields.io/badge/AI%20Agent-1y-24292e?style=flat-square&logo=reverbnation&labelColor=24292e&color=474d56) ![Vector%20DB](https://img.shields.io/badge/Vector%20DB-1y-24292e?style=flat-square&logo=reverbnation&labelColor=24292e&color=474d56)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-1y-24292e?style=flat-square&logo=OpenAI&labelColor=24292e&color=474d56) ![Claude API](https://img.shields.io/badge/Claude%20API-1y-24292e?style=flat-square&logo=Anthropic&labelColor=24292e&color=474d56) ![MCP](https://img.shields.io/badge/MCP-1y-24292e?style=flat-square&logo=reverbnation&labelColor=24292e&color=474d56) ![AI Agent](https://img.shields.io/badge/AI%20Agent-1y-24292e?style=flat-square&logo=reverbnation&labelColor=24292e&color=474d56) ![Vector%20DB](https://img.shields.io/badge/Vector%20DB-1y-24292e?style=flat-square&logo=reverbnation&labelColor=24292e&color=474d56)
 
 **Data Processing & Analytics**  
-![Python](https://img.shields.io/badge/Python-5y-24292e?style=flat-square&logo=Python&labelColor=24292e&color=474d56) ![Apache%20Spark](https://img.shields.io/badge/Apache%20Spark-5y-24292e?style=flat-square&logo=Apache%20Spark&labelColor=24292e&color=474d56) ![PySpark](https://img.shields.io/badge/PySpark-5y-24292e?style=flat-square&logo=Apache%20Spark&labelColor=24292e&color=474d56) ![Apache%20Airflow](https://img.shields.io/badge/Apache%20Airflow-5y-24292e?style=flat-square&logo=Apache%20Airflow&labelColor=24292e&color=474d56)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) ![Python](https://img.shields.io/badge/Python-5y-24292e?style=flat-square&logo=Python&labelColor=24292e&color=474d56) ![Apache%20Spark](https://img.shields.io/badge/Apache%20Spark-5y-24292e?style=flat-square&logo=Apache%20Spark&labelColor=24292e&color=474d56) ![PySpark](https://img.shields.io/badge/PySpark-5y-24292e?style=flat-square&logo=Apache%20Spark&labelColor=24292e&color=474d56) ![Apache%20Airflow](https://img.shields.io/badge/Apache%20Airflow-5y-24292e?style=flat-square&logo=Apache%20Airflow&labelColor=24292e&color=474d56)
 
 **Frontend Development**  
 ![React](https://img.shields.io/badge/React-8y-24292e?style=flat-square&logo=React&labelColor=24292e&color=474d56) ![JavaScript](https://img.shields.io/badge/JavaScript-15y-24292e?style=flat-square&logo=JavaScript&labelColor=24292e&color=474d56) ![Redux](https://img.shields.io/badge/Redux-7y-24292e?style=flat-square&logo=Redux&labelColor=24292e&color=474d56) ![HTML](https://img.shields.io/badge/HTML-15y-24292e?style=flat-square&logo=HTML5&labelColor=24292e&color=474d56) ![CSS](https://img.shields.io/badge/CSS-15y-24292e?style=flat-square&logo=CSS3&labelColor=24292e&color=474d56&logoColor=2394f0) ![Sass](https://img.shields.io/badge/Sass-7y-24292e?style=flat-square&logo=Sass&labelColor=24292e&color=474d56)
@@ -47,8 +55,13 @@ Hi [I’m Mofei](https://www.mofei.life/), 哈喽[我是朱文龙](https://www.m
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/mofei-zhu"><img src="https://img.shields.io/badge/-Mofei--Zhu-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:zhuwenlong1027@gmail.com"><img src="https://img.shields.io/badge/-zhuwenlong1027@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/zhu_wenlong"><img src="https://img.shields.io/badge/-@zhu__wenlong_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.mofei.life"><img src="https://img.shields.io/badge/-https%3A%2F%2Fwww.mofei.life-1769FF?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mofei-zhu"><img src="https://img.shields.io/badge/-Mofei--Zhu-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:zhuwenlong1027@gmail.com"><img src="https://img.shields.io/badge/-zhuwenlong1027@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/zhu_wenlong"><img src="https://img.shields.io/badge/-@zhu__wenlong_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.mofei.life"><img src="https://img.shields.io/badge/-Blog-1769FF?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+</p>
+
+### 💬 &nbsp;Fun Facts
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Dev Quote"/>
 </p>
