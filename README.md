@@ -35,23 +35,6 @@ Hi [I'm Mofei](https://www.mofei.life/), 哈喽[我是朱文龙](https://www.mof
 ![Mini%20program](https://img.shields.io/badge/Mini%20program-7y-24292e?style=flat-square&logo=WeChat&labelColor=24292e&color=474d56) ![Visualization](https://img.shields.io/badge/Visualization-7y-24292e?style=flat-square&logo=reverbnation&labelColor=24292e&color=474d56) ![Illustrator](https://img.shields.io/badge/-Illustrator-24292e?style=flat-square&logo=adobe-illustrator) ![Photoshop](https://img.shields.io/badge/-Photoshop-24292e?style=flat-square&logo=adobe-photoshop) ![Markdown](https://img.shields.io/badge/-Markdown-24292e?style=flat-square&logo=markdown) ![Code Coverage](https://img.shields.io/badge/Code%20Coverage-4y-24292e?style=flat-square&logo=Codecov&labelColor=24292e&color=474d56)
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/zmofei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmofei&show_icons=true&theme=nord&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmofei&layout=compact&langs_count=8&theme=nord&cache_seconds=86400" alt="Top Languages"/>
-</a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zmofei&theme=nord&cache_seconds=86400" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zmofei&theme=nord&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
